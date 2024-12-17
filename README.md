@@ -11,6 +11,6 @@ Used [NeRF](https://github.com/nerfstudio-project/nerfstudio) and [3D Gaussian S
 
   ![20k-ezgif com-resize](https://github.com/user-attachments/assets/87921e43-bac9-49f0-83e9-37a85f711bff)
 
--3D Gaussian Splatting
+- 3D Gaussian Splatting
 
   ![49_img_20k-ezgif com-resize](https://github.com/user-attachments/assets/cfa3b37f-fe62-481e-a0ab-69d10df67c6e)
